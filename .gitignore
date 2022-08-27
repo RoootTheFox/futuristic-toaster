@@ -1,2 +1,5 @@
 /target
 .idea
+.private
+.twitch_access_token
+.meow_secret

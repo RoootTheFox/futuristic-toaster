@@ -11,3 +11,5 @@ tokio = { version = "1.20.1", features = ["full"] }
 hyper = { version = "0.14.20", features = ["tcp", "http1", "http2", "server"] }
 tracing = "0.1.36"
 tracing-subscriber = "0.3.15" # SUBSCRIBE!
+json = "0.12.4"
+hmac-sha256 = "1.1.4"
